@@ -1,0 +1,32 @@
+body {
+    background: url(../images/background.jpg);
+}
+
+h1 {
+    color: lightgreen;
+}
+
+p {
+    color: lightgreen;
+}
+
+
+.jumbotron {
+    opacity: 
+}
+
+#gold {
+    width: 180px;
+}
+
+#red {
+    width: 180px;
+}
+
+#green {
+    width: 180px;
+}
+
+#blue {
+    width: 180px;
+}
